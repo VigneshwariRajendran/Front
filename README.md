@@ -49,6 +49,11 @@ Adopt page-
 
 ![image](https://user-images.githubusercontent.com/51949214/128047450-9e2707b5-675a-4c27-915a-4ae7100a2fa9.png)
 
-**Contact Informatiom**
+**Contributing**
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+**Contact Information**
 
 vigneshwarirajendran24@gmail.com
