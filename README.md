@@ -31,7 +31,7 @@ Sign_in page-
 
 Welcome page-
 
-![image](https://user-images.githubusercontent.com/51949214/129947564-c726234c-dc05-43b4-9c1a-c1e35715e509.png)
+![image](https://user-images.githubusercontent.com/51949214/129948938-f00b4031-ad0f-4c23-ac45-f5bb71da6eb6.png)
 
 Sign_up page-
 
