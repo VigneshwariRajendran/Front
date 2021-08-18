@@ -25,9 +25,17 @@ Home page-
 
 ![image](https://user-images.githubusercontent.com/51949214/128045527-a6f78c77-245c-4ab3-a00f-507a700af791.png)
 
-Sign_in/Sign_up-
+Sign_in page-
 
 ![image](https://user-images.githubusercontent.com/51949214/128046232-a7b5ed86-46fa-4ae3-a08b-53cc9420e6e7.png)
+
+Sign_up page-
+
+![image](https://user-images.githubusercontent.com/51949214/129947495-8e0a403c-40ed-49c4-917e-c00580aa07bd.png)
+
+Welcome page-
+
+![image](https://user-images.githubusercontent.com/51949214/129947564-c726234c-dc05-43b4-9c1a-c1e35715e509.png)
 
 About page-
 
