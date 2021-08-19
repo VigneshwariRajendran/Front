@@ -23,8 +23,7 @@ This browser application is about a pet care service provider and it allows user
 
 Home page-
 
-![image](https://user-images.githubusercontent.com/51949214/130124042-4ec7a83d-96cd-4128-b65f-acaede522217.png)
-
+![screencapture-file-C-Users-rajendran-v-r-Desktop-front-end-home-home-html-2021-08-20-00_07_41](https://user-images.githubusercontent.com/51949214/130125825-20dd4512-8f92-402c-943f-fa40fb03db68.png)
 
 Sign_in page-
 
